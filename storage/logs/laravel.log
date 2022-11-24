@@ -1,0 +1,12 @@
+[2022-11-24 11:45:27] local.ERROR: Cannot use Illuminate\Support\Facades\Route as Route because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot use Illuminate\\Support\\Facades\\Route as Route because the name is already in use at C:\\Users\\Anton\\Documents\\applications\\tunas\\routes\\web.php:13)
+[stacktrace]
+#0 {main}
+"} 
+[2022-11-24 11:45:32] local.ERROR: Cannot use Illuminate\Support\Facades\Route as Route because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot use Illuminate\\Support\\Facades\\Route as Route because the name is already in use at C:\\Users\\Anton\\Documents\\applications\\tunas\\routes\\web.php:13)
+[stacktrace]
+#0 {main}
+"} 
+[2022-11-24 11:48:13] local.ERROR: Cannot use Illuminate\Support\Facades\Route as Route because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot use Illuminate\\Support\\Facades\\Route as Route because the name is already in use at C:\\Users\\Anton\\Documents\\applications\\tunas\\routes\\web.php:13)
+[stacktrace]
+#0 {main}
+"} 
