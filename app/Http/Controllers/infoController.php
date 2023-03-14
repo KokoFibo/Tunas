@@ -20,4 +20,4 @@ class infoController extends Controller
 
         ]);
     }
-}
+} 
